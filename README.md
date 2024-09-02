@@ -6,8 +6,8 @@ Personal Email: minharaza428@gmail.com <br/>
 <br/>
 ### Co-op Experiences:
 ## GE Appliances (Jan 2024 - Aug 2024)
-### Software Engineer - User Experience for Walloven (Jan 2024 - Apr 2024)
-### Software Engineer - Embedded Programmer for Dryer (May 2024 - Aug 2024)
+## Software Engineer - User Experience for Walloven (Jan 2024 - Apr 2024)
+## Software Engineer - Embedded Programmer for Dryer (May 2024 - Aug 2024)
 -Developed and implemented UI features for the smart appliances Android Wall oven using Flutter. 
 <br/>
 -Navigated a comprehensive, shared codebase of two appliance product lines to implement "Festive Themes” UI. 
