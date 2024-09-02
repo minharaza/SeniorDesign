@@ -5,7 +5,8 @@ University Email: *razamh@mail.uc.edu* <br/>
 Personal Email: minharaza428@gmail.com <br/>
 <br/>
 # Co-op Experiences:
-## GE Appliances (Jan 2024 - Aug 2024)
+## GE Appliances 
+## (Jan 2024 - Aug 2024)
 ### Software Engineer - User Experience for Walloven (Jan 2024 - Apr 2024)
 ### Software Engineer - Embedded Programmer for Dryer (May 2024 - Aug 2024)
 -Developed and implemented UI features for the smart appliances Android Wall oven using Flutter. 
@@ -14,7 +15,8 @@ Personal Email: minharaza428@gmail.com <br/>
 <br/>
 -Assembled useful additional features by building on and improving existing UI screens. 
 <br/>
-## University of Cincinnati - College of Engineering & Applied Sciences Admissions Office (Aug 2023 - Dec 2023)
+## University of Cincinnati - College of Engineering & Applied Sciences Admissions Office 
+## (Aug 2023 - Dec 2023)
 ### Student Worker
 -Guided current and prospective engineering students through college specific processes. 
 <br/>
@@ -22,7 +24,8 @@ Personal Email: minharaza428@gmail.com <br/>
 <br/>
 -Assisted in College Close-Up programming and tabling to support incoming students and families. 
 <br/>
-## BECO Ventures Pte. Ltd. Start Up (Sept 2022 - Dec 2022)
+## BECO Ventures Pte. Ltd. Start Up 
+## (Sept 2022 - Dec 2022)
 ### User Experience Intern
 -Delivered a complex registration workflow based upon a multifaceted agile system 
 <br/>
@@ -32,7 +35,8 @@ Personal Email: minharaza428@gmail.com <br/>
 <br/>
 -Adjusted efficiently in a novice, agile start up business model environment 
 <br/>
-## TENET3 Cybernetics (Jan 2022 - Apr 2022)
+## TENET3 Cybernetics
+## (Jan 2022 - Apr 2022)
 ### Software Quality Engineer
 -Conducted large-scale teamwork within a cloud-based and model-based computer system 
 <br/>
