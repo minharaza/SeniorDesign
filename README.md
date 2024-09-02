@@ -46,6 +46,7 @@ Personal Email: minharaza428@gmail.com <br/>
 <br/>
 -Generated bug reports after debugging code within a large-scale project known as Measured Threat Risk Assessment (MeTRA) 
 
-#Project Sought
+# Project Sought
+I'm looking to learn something new in my capstone project. I would love to drive deeper in UX/UI Engineering. Moreover, I think web development or even app development would be super beneficial, since I have not been able to deep dive into either. I was to create some kind of app that is useful, that I am passionate about!
 
 
